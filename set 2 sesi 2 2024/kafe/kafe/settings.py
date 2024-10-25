@@ -27,7 +27,7 @@ SECRET_KEY =os.environ.get('DJANGO_SECRET_KEY','30e4i5wv0d^9-_95r@*n&y4vg^ld^_e(
 #DEBUG = True
 DEBUG = os.environ.get('DJANGO_DEBUG','')!='False'
 
-ALLOWED_HOSTS = ['spyiblan/']
+ALLOWED_HOSTS = ['spyiblan.pythonanywhere.com']
 
 
 # Application definition
