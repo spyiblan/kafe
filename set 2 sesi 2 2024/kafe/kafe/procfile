@@ -1,0 +1,1 @@
+mkvirtualenv --python=/usr/bin/python 3.10 -virtualenv
